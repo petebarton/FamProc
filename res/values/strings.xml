@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Memorizor!</string>
+	<string name="app_name">Family Proc</string>
+	<string name="btntxtFamProc1">Fam Proc 1</string>
+	<string name="btntxtOldTest">Old Testament</string>
+	<string name="btntxtGeBuAdrs">GeBuAdrs</string>
+	<string name="tvCorrect">Correct: 0</string>
+	<string name="tvWrong">Wrong: 0</string>
+	<string name="strPartial">Wrong: 0</string>
+	<string name="strwhtGeBuAdrs">Four score and seven years ago our fathers brought
+		forth on this continent a new nation, conceived in liberty, and
+		dedicated to the proposition that all men are created equal. Now we
+		are engaged in a great civil war, testing whether that nation, or any
+		nation, so conceived and so dedicated, can long endure. We are met on
+		a great battle-field of that war. We have come to dedicate a portion
+		of that field, as a final resting place for those who here gave their
+		lives that that nation might live. It is altogether fitting and proper
+		that we should do this. But, in a larger sense, we can not dedicate,
+		we can not consecrate, we can not hallow this ground. The brave men,
+		living and dead, who struggled here, have consecrated it, far above
+		our poor power to add or detract. The world will little note, nor long
+		remember what we say here, but it can never forget what they did here.
+		It is for us the living, rather, to be dedicated here to the
+		unfinished work which they who fought here have thus far so nobly
+		advanced. It is rather for us to be here dedicated to the great task
+		remaining before us, that from these honored dead we take increased
+		devotion to that cause for which they gave the last full measure of
+		devotion, that we here highly resolve that these dead shall not have
+		died in vain, that this nation, under God, shall have a new birth of
+		freedom, and that government of the people, by the people, for the
+		people, shall not perish from the earth.</string>
+	<string name="strwhtFamProc1">We, the First Presidency and the Council of the
+		Twelve Apostles of The Church of Jesus Christ of Latter-day Saints,
+		solemnly proclaim that marriage between a man and a woman is ordained
+		of God and that the family is central to the Creator\'s plan for the
+		eternal destiny of His children. All human beings, male and female,
+		are created in the image of God. Each is a beloved spirit son or
+		daughter of heavenly parents, and, as such, each has a divine nature
+		and destiny. Gender is an essential characteristic of individual
+		premortal, mortal, and eternal identity and purpose. In the premortal
+		realm, spirit sons and daughters knew and worshiped God as their
+		Eternal Father and accepted His plan by which His children could
+		obtain a physical body and gain earthly experience to progress toward
+		perfection and ultimately realize his or her divine destiny as an heir
+		of eternal life. The divine plan of happiness enables family
+		relationships to be perpetuated beyond the grave. Sacred ordinances
+		and covenants available in holy temples make it possible for
+		individuals to return to the presence of God and for families to be
+		united eternally.</string>
+	<string name="strwhtOldTest">Genesis Exodus Leviticus Numbers Deuteronomy Joshua
+		Judges Ruth 1Samuel 2Samuel 1Kings 2Kings 1Chronicles 2Chronicles Ezra
+		Nehemiah Esther Job Psalms Proverbs Ecclesiastes Song_of_Solomon
+		Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Matthew
+		Mark Luke John Acts Romans 1Corinthians 2Corinthians Galatians
+		Ephesians Philippians Colossians 1Thessalonians 2Thessalonians
+		1Timothy 2Timothy Titus Philemon Hebrews James 1Peter 2Peter 1John
+		2John 3John Jude Revelation</string>
+</resources>
